@@ -1,6 +1,6 @@
 # Navigation_Udacity_DRLND_P1
 
-Project done as part of the [Udacity Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893). The objective of this project is to create an Deep-Q Learning agent that is able to maximize the reward in the [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents) based `Banana Collector` environment.
+Project done as part of the [Udacity Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893). The objective of this project is to create an Deep-Q Learning agent that is able to maximize the reward in the [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents) based [Banana Collector](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#banana-collector) environment.
 
 ## Game Environment Details
 
